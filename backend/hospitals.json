@@ -1,0 +1,1502 @@
+[
+  {
+    "name": "CityCare Hospital 1",
+    "location": "Mumbai",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 2",
+    "location": "Chennai",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 3",
+    "location": "Bangalore",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 4",
+    "location": "Hyderabad",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 5",
+    "location": "Pune",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 6",
+    "location": "Delhi",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 7",
+    "location": "Mumbai",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 8",
+    "location": "Chennai",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 9",
+    "location": "Bangalore",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 10",
+    "location": "Hyderabad",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 11",
+    "location": "Pune",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 12",
+    "location": "Delhi",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 13",
+    "location": "Mumbai",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 14",
+    "location": "Chennai",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 15",
+    "location": "Bangalore",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 16",
+    "location": "Hyderabad",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 17",
+    "location": "Pune",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 18",
+    "location": "Delhi",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 19",
+    "location": "Mumbai",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 20",
+    "location": "Chennai",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 21",
+    "location": "Bangalore",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 22",
+    "location": "Hyderabad",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 23",
+    "location": "Pune",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 24",
+    "location": "Delhi",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 25",
+    "location": "Mumbai",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 26",
+    "location": "Chennai",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 27",
+    "location": "Bangalore",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 28",
+    "location": "Hyderabad",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 29",
+    "location": "Pune",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 30",
+    "location": "Delhi",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 31",
+    "location": "Mumbai",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 32",
+    "location": "Chennai",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 33",
+    "location": "Bangalore",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 34",
+    "location": "Hyderabad",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 35",
+    "location": "Pune",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 36",
+    "location": "Delhi",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 37",
+    "location": "Mumbai",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 38",
+    "location": "Chennai",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 39",
+    "location": "Bangalore",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 40",
+    "location": "Hyderabad",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 41",
+    "location": "Pune",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 42",
+    "location": "Delhi",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 43",
+    "location": "Mumbai",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 44",
+    "location": "Chennai",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 45",
+    "location": "Bangalore",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 46",
+    "location": "Hyderabad",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 47",
+    "location": "Pune",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 48",
+    "location": "Delhi",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 49",
+    "location": "Mumbai",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 50",
+    "location": "Chennai",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 51",
+    "location": "Bangalore",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 52",
+    "location": "Hyderabad",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 53",
+    "location": "Pune",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 54",
+    "location": "Delhi",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 55",
+    "location": "Mumbai",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 56",
+    "location": "Chennai",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 57",
+    "location": "Bangalore",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 58",
+    "location": "Hyderabad",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 59",
+    "location": "Pune",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 60",
+    "location": "Delhi",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 61",
+    "location": "Mumbai",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 62",
+    "location": "Chennai",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 63",
+    "location": "Bangalore",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 64",
+    "location": "Hyderabad",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 65",
+    "location": "Pune",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 66",
+    "location": "Delhi",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 67",
+    "location": "Mumbai",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 68",
+    "location": "Chennai",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 69",
+    "location": "Bangalore",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 70",
+    "location": "Hyderabad",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 71",
+    "location": "Pune",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 72",
+    "location": "Delhi",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 73",
+    "location": "Mumbai",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 74",
+    "location": "Chennai",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 75",
+    "location": "Bangalore",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 76",
+    "location": "Hyderabad",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 77",
+    "location": "Pune",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 78",
+    "location": "Delhi",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 79",
+    "location": "Mumbai",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 80",
+    "location": "Chennai",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 81",
+    "location": "Bangalore",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 82",
+    "location": "Hyderabad",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 83",
+    "location": "Pune",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 84",
+    "location": "Delhi",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 85",
+    "location": "Mumbai",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 86",
+    "location": "Chennai",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 87",
+    "location": "Bangalore",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 88",
+    "location": "Hyderabad",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 89",
+    "location": "Pune",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 90",
+    "location": "Delhi",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 91",
+    "location": "Mumbai",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 92",
+    "location": "Chennai",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 93",
+    "location": "Bangalore",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 94",
+    "location": "Hyderabad",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 95",
+    "location": "Pune",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 96",
+    "location": "Delhi",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 97",
+    "location": "Mumbai",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 98",
+    "location": "Chennai",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 99",
+    "location": "Bangalore",
+    "type": "Government",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  },
+  {
+    "name": "CityCare Hospital 100",
+    "location": "Hyderabad",
+    "type": "Private",
+    "treatments": [
+      {
+        "name": "General Surgery",
+        "cost": 20000
+      },
+      {
+        "name": "MRI Scan",
+        "cost": 8000
+      }
+    ]
+  }
+]
