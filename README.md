@@ -45,4 +45,10 @@ A smart healthcare financial assistant that helps users **predict medical debt r
 
 ---
 
+## ⚙️ Installation & Setup
 
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/amartya69/medicaldebtpredictor.git
+cd medicaldebtpredictor
