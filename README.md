@@ -52,3 +52,11 @@ A smart healthcare financial assistant that helps users **predict medical debt r
 ```bash
 git clone https://github.com/amartya69/medicaldebtpredictor.git
 cd medicaldebtpredictor
+
+
+Backend Setup
+cd backend
+npm install
+npm run dev
+
+👉 Runs on: http://localhost:5000
