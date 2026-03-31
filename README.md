@@ -15,3 +15,20 @@ A smart healthcare financial assistant that helps users **predict medical debt r
 - 🎯 Hospital suggestions based on risk
 
 ---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React.js
+- Tailwind CSS
+- Chart.js
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB (Compass)
+
+---
+
