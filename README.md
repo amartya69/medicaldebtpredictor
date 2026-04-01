@@ -73,3 +73,9 @@ Open MongoDB Compass
 Create DB: medicalDB
 Collection: hospitals
 Insert dataset (50+ hosp
+
+API Endpoints
+Method	Endpoint	Description
+POST	/predict	Calculate risk
+GET	/hospitals	Get all hospitals
+GET	/hospitals-by-risk/:risk	Filter hospitals
