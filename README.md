@@ -72,7 +72,7 @@ MongoDB Setup
 Open MongoDB Compass
 Create DB: medicalDB
 Collection: hospitals
-Insert dataset (50+ hosp
+Insert dataset (50+ hospitals)
 
 API Endpoints
 Method	Endpoint	Description
