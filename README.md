@@ -67,3 +67,9 @@ npm install
 npm start
 
 👉 Runs on: http://localhost:3000
+
+MongoDB Setup
+Open MongoDB Compass
+Create DB: medicalDB
+Collection: hospitals
+Insert dataset (50+ hosp
