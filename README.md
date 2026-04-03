@@ -95,3 +95,9 @@ System returns:
 Risk Level
 Recommendations
 Suggested Hospitals
+
+Use Case
+
+Helps patients avoid medical debt traps
+Suggests affordable hospitals
+Supports financial planning before treatment
