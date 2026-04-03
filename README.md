@@ -80,4 +80,18 @@ POST	/predict	Calculate risk
 GET	/hospitals	Get all hospitals
 GET	/hospitals-by-risk/:risk	Filter hospitals
 
-
+🧠 How It Works
+User enters:
+Income
+Expenses
+EMI
+Medical Cost
+Savings
+Backend calculates:
+Burden Ratio
+Surplus
+Risk Score
+System returns:
+Risk Level
+Recommendations
+Suggested Hospitals
