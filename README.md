@@ -101,3 +101,9 @@ Use Case
 Helps patients avoid medical debt traps
 Suggests affordable hospitals
 Supports financial planning before treatment
+
+Future Improvements
+🤖 ML Model Integration
+📍 Location-based hospital filtering
+💳 Insurance API integration
+🌐 Deployment (Vercel + Render)
