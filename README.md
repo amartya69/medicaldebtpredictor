@@ -120,3 +120,18 @@ If you like this project:
 
 👉 Star this repo ⭐
 👉 Fork & contribute 🚀
+
+This project is licensed under the MIT License.
+
+
+---
+
+# 🔥 WHAT THIS IMPROVES
+
+✅ Removes default React README  
+✅ Looks like **startup product**  
+✅ Perfect for **hackathon judging**  
+✅ Good for **resume + portfolio**  
+✅ Clean & professional  
+
+---
