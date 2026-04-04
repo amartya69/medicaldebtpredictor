@@ -108,8 +108,15 @@ Future Improvements
 💳 Insurance API integration
 🌐 Deployment (Vercel + Render)
 
-Author
+# Author
 
 Amartya Prakash
-
 GitHub: https://github.com/amartya69
+
+
+Show Your Support
+
+If you like this project:
+
+👉 Star this repo ⭐
+👉 Fork & contribute 🚀
