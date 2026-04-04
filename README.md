@@ -107,3 +107,9 @@ Future Improvements
 📍 Location-based hospital filtering
 💳 Insurance API integration
 🌐 Deployment (Vercel + Render)
+
+Author
+
+Amartya Prakash
+
+GitHub: https://github.com/amartya69
