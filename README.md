@@ -62,7 +62,6 @@ npm run dev
 👉 Runs on: http://localhost:5000
 
 Frontend Setup
-cd ..
 npm install
 npm start
 
