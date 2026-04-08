@@ -99,7 +99,7 @@ Use Case
 
 Helps patients avoid medical debt traps
 Suggests affordable hospitals
-Supports financial planning before treatment
+Supports financial planning before treatment with suggestions of best hospitals near your city.
 
 Future Improvements
 🤖 ML Model Integration
