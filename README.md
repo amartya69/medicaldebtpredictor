@@ -55,6 +55,7 @@ cd medicaldebtpredictor
 
 
 Backend Setup
+cd backend
 npm install
 npm run dev
 
