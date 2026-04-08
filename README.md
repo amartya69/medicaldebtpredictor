@@ -93,7 +93,6 @@ Surplus
 Risk Score
 System returns:
 Risk Level
-Recommendations
 Suggested Hospitals
 
 Use Case
