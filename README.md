@@ -29,6 +29,7 @@ A smart healthcare financial assistant that helps users **predict medical debt r
 
 ### Database
 - MongoDB (Compass)
+- Atlas 
 
 ---
 
