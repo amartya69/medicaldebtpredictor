@@ -144,6 +144,6 @@ Now:
 ```bash
 
 git add .
-git commit -m "Updated professional README"
+git commit -m "Updated professional README.md"
 git push
 
