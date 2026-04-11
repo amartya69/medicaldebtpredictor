@@ -75,6 +75,11 @@ Create DB: medicalDB
 Collection: hospitals
 Insert dataset (50+ hospitals)
 
+API
+POST /predict
+GET /hospitals
+GET /hospitals-by-risk/:risk
+
 API Endpoints
 Method	Endpoint	Description
 POST	/predict	Calculate risk
