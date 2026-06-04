@@ -41,8 +41,7 @@ A smart healthcare financial assistant that helps users **predict medical debt r
 ### 🔹 Results Page
 ![Results](https://via.placeholder.com/800x400)
 
-### 🔹 Hospitals Page
-![Hospitals](https://via.placeholder.com/800x400)
+
 
 ---
 
