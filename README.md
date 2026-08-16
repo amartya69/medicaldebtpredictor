@@ -125,9 +125,6 @@ This project is licensed under the MIT License.
 ✅ Good for "resume + portfolio"  
 ✅ Clean & professional  
 
----
-
-# 🚀 NEXT STEP
 
 Now:
 
